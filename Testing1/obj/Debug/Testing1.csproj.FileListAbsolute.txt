@@ -1,0 +1,9 @@
+C:\Users\vishalini\Desktop\Project\Testing1\bin\Debug\Testing1.exe.config
+C:\Users\vishalini\Desktop\Project\Testing1\bin\Debug\Testing1.exe
+C:\Users\vishalini\Desktop\Project\Testing1\bin\Debug\Testing1.pdb
+C:\Users\vishalini\Desktop\Project\Testing1\obj\Debug\Testing1.Form1.resources
+C:\Users\vishalini\Desktop\Project\Testing1\obj\Debug\Testing1.Properties.Resources.resources
+C:\Users\vishalini\Desktop\Project\Testing1\obj\Debug\Testing1.csproj.GenerateResource.cache
+C:\Users\vishalini\Desktop\Project\Testing1\obj\Debug\Testing1.csproj.CoreCompileInputs.cache
+C:\Users\vishalini\Desktop\Project\Testing1\obj\Debug\Testing1.exe
+C:\Users\vishalini\Desktop\Project\Testing1\obj\Debug\Testing1.pdb
